@@ -1,0 +1,1 @@
+# ICDAR_tutorial_template
